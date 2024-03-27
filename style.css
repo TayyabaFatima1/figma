@@ -1,0 +1,80 @@
+.navbar a{
+color: #1F1F1F;
+}
+.button-custom{
+    background-color: #fefefe;
+    border: 1px solid #BEBEBE;
+    padding: 15px 35px 15px 30px;
+    border-radius: 30px;   
+}
+.button-custom:hover{
+    background-color: #fefefe;
+    border: 1px solid #BEBEBE;
+    padding: 15px 35px 15px 35px;
+    border-radius: 30px;  
+}
+ul img{
+width: 24px;
+height: 24px;
+top: 67px;
+left: 920px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bgimg{
+ background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+ ;
+ border-radius: 15px;
+ margin: 50px 0px;
+}
+.image{
+   flex: auto;
+   width: 50%;
+}
+.img2{
+    width: 100%;
+}
+.one{
+    align-items: flex-start;
+    margin: auto;
+    padding-left: 25px;
+    width: 50%;
+    box-sizing: border-box;
+    color:#000000;
+    font-family: "poppins";
+}
+.welcome{
+font-family:"Poppins-Medium.ttf";
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+text-align: left;
+color: #000000;
+}
+h1{
+font-family: "Poppins";
+font-size: 67px;
+font-weight: 600;
+line-height: 80.4px;
+text-align: left;
+color: #000000;
+}
+.features{
+font-family: "poppins";
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #000000;
+}
+.image-div{
+    align-self: flex-start;
+    justify-content: flex-start;
+}
+.get-quote{
+    margin: auto;
+    padding-left: 25px;
+    align-self: flex-start;
+    width: 60%;
+ }
