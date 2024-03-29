@@ -84,6 +84,7 @@ color: #000000;
     align-self: flex-start;
     width: 60%;
  }
+
  @media screen and (max-width:444px) {
     h1{ width: 100%;
         font-size: 30px;
@@ -94,3 +95,4 @@ color: #000000;
         
     }
  }
+
