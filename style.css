@@ -35,6 +35,9 @@ opacity: 0px;
 .img2{
     width: 100%;
 }
+.hero{
+    box-sizing: content-box;
+}
 .one{
     align-items: flex-start;
     margin: auto;
@@ -83,7 +86,8 @@ color: #000000;
         font-size: 30px;
         line-height: 30px;
     }
- }
- @media screen and (mn-widt:) {
-    
+    .get-quote{
+        width: 9rem;
+        
+    }
  }
