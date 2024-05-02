@@ -59,12 +59,57 @@ opacity: 0px;
     font-family: "poppins";
 }
 .welcome{
-font-family:"Poppins-Medium.ttf";
-font-size: 16px;
-font-weight: 400;
-line-height: 19.2px;
+ 
+font-family: Poppins;
+font-size: 38px;
+font-weight: bolder;
+
 text-align: left;
-color: #000000;
+
+}
+h4{
+    //styleName: 04;
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 45.6px;
+    text-align: left;
+    
+}
+.btnB{
+    width: Hug (153px)px;
+height: Fixed (60px)px;
+top: 2502px;
+left: 98px;
+padding: 15px 35px 15px 35px;
+gap: 10px;
+border-radius: 40px 0px 0px 0px;
+opacity: 0px;
+
+}
+.btnR{
+    width: Hug (156px)px;
+height: Fixed (60px)px;
+top: 2502px;
+left: 275px;
+padding: 15px 35px 15px 35px;
+gap: 10px;
+border-radius: 40px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+.card_home{
+    border-radius: 40px;
+}
+.heading2{
+    margin: 30px;
+    font-family: "Poppins";
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    align-items: center;
+    justify-self: center;
 }
 h1{
 font-family: "Poppins";
@@ -76,9 +121,6 @@ color: #000000;
 }
 .features{
 font-family: "poppins";
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
 text-align: left;
 color: #000000;
 }
@@ -106,14 +148,7 @@ justify-self: center;
     font-family: poppins;
     
  }
- h5{
-    font-family: Poppins;
-font-size: 40px;
-font-weight: 600;
-line-height: 60px;
-color: #000000;
 
- }
  .para2{
     font-family: Poppins;
 font-size: 16px;
